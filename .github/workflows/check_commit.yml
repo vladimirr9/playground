@@ -23,4 +23,4 @@ jobs:
         with:
           pattern: ([A-Z][A-Z\d_]*)-(\d+)
           flags: 'gm'
-          error: 'Commit must contain jira ticket in title or description'
+          error: 'Commit must contain jira ticket in title or description.'
